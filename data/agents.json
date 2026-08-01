@@ -5,67 +5,83 @@
     {
       "name": "OpenCode",
       "repo": "anomalyco/opencode",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "MIT",
       "description": "A provider-agnostic terminal coding agent with repository tools, LSP integration, and shareable sessions.",
-      "stars": 191773,
+      "stars": 191776,
       "stars_at_addition": 191773,
       "added_at": "2026-08-01"
     },
     {
       "name": "Claude Code",
       "repo": "anthropics/claude-code",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "Closed Source",
       "description": "Anthropic's terminal coding agent for codebase analysis, file changes, command execution, and Git workflows.",
-      "stars": 139851,
+      "stars": 139854,
       "stars_at_addition": 139851,
       "added_at": "2026-08-01"
     },
     {
       "name": "Gemini CLI",
       "repo": "google-gemini/gemini-cli",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "Apache-2.0",
       "description": "Google's terminal agent for understanding repositories, editing files, running commands, and using Gemini tools.",
-      "stars": 106291,
+      "stars": 106292,
       "stars_at_addition": 106291,
       "added_at": "2026-08-01"
     },
     {
       "name": "Codex CLI",
       "repo": "openai/codex",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "Apache-2.0",
       "description": "OpenAI's local coding agent for inspecting repositories, editing files, running commands, and completing development tasks.",
-      "stars": 102974,
+      "stars": 102978,
       "stars_at_addition": 102974,
       "added_at": "2026-08-01"
     },
     {
       "name": "OpenHands",
       "repo": "OpenHands/OpenHands",
-      "interfaces": ["CLI", "Web", "Autonomous"],
+      "interfaces": [
+        "CLI",
+        "Web",
+        "Autonomous"
+      ],
       "license": "MIT",
       "description": "An autonomous software development platform that can modify repositories, run commands, and work on GitHub issues.",
-      "stars": 82738,
+      "stars": 82740,
       "stars_at_addition": 82738,
       "added_at": "2026-08-01"
     },
     {
       "name": "Pi",
       "repo": "earendil-works/pi",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "MIT",
       "description": "A compact terminal coding agent with a unified model API, tool execution, extensions, and a programmable agent loop.",
-      "stars": 81613,
+      "stars": 81615,
       "stars_at_addition": 81613,
       "added_at": "2026-08-01"
     },
     {
       "name": "Open Interpreter",
       "repo": "openinterpreter/openinterpreter",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "Apache-2.0",
       "description": "A local terminal agent that writes and executes code to complete programming and computer tasks with open models.",
       "stars": 67482,
@@ -75,27 +91,36 @@
     {
       "name": "Cline",
       "repo": "cline/cline",
-      "interfaces": ["IDE", "CLI"],
+      "interfaces": [
+        "IDE",
+        "CLI"
+      ],
       "license": "Apache-2.0",
       "description": "An autonomous coding agent for IDE and terminal workflows with file editing, command execution, browser tools, and checkpoints.",
-      "stars": 65354,
+      "stars": 65356,
       "stars_at_addition": 65354,
       "added_at": "2026-08-01"
     },
     {
       "name": "Warp",
       "repo": "warpdotdev/warp",
-      "interfaces": ["CLI", "Desktop"],
+      "interfaces": [
+        "CLI",
+        "Desktop"
+      ],
       "license": "AGPL-3.0",
       "description": "An agentic development environment that combines a modern terminal with repository-aware coding and command execution.",
-      "stars": 63842,
+      "stars": 63841,
       "stars_at_addition": 63842,
       "added_at": "2026-08-01"
     },
     {
       "name": "Goose",
       "repo": "aaif-goose/goose",
-      "interfaces": ["CLI", "Desktop"],
+      "interfaces": [
+        "CLI",
+        "Desktop"
+      ],
       "license": "Apache-2.0",
       "description": "An extensible local agent that can inspect code, edit files, execute commands, run tests, and connect to MCP servers.",
       "stars": 52043,
@@ -105,7 +130,9 @@
     {
       "name": "Aider",
       "repo": "Aider-AI/aider",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "Apache-2.0",
       "description": "A Git-aware terminal pair programmer that edits multiple files, maps repositories, runs checks, and commits changes.",
       "stars": 47848,
@@ -115,7 +142,10 @@
     {
       "name": "Continue",
       "repo": "continuedev/continue",
-      "interfaces": ["IDE", "CLI"],
+      "interfaces": [
+        "IDE",
+        "CLI"
+      ],
       "license": "Apache-2.0",
       "description": "An open-source coding agent for IDE and terminal use with configurable models, repository context, and development tools.",
       "stars": 35248,
@@ -125,7 +155,9 @@
     {
       "name": "GPT Pilot",
       "repo": "Pythagora-io/gpt-pilot",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "Source Available",
       "description": "An AI developer that plans applications, writes code, runs commands, debugs failures, and asks for human review when needed.",
       "stars": 33722,
@@ -135,7 +167,10 @@
     {
       "name": "Cursor",
       "repo": "cursor/cursor",
-      "interfaces": ["IDE", "Desktop"],
+      "interfaces": [
+        "IDE",
+        "Desktop"
+      ],
       "license": "Closed Source",
       "description": "An AI code editor with an agent that explores repositories, changes files, runs commands, and completes multi-step coding tasks.",
       "stars": 33073,
@@ -145,17 +180,21 @@
     {
       "name": "DeepSeek Reasonix",
       "repo": "esengine/DeepSeek-Reasonix",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "MIT",
       "description": "A terminal coding agent designed for DeepSeek models with persistent sessions, repository tools, and cache-aware execution.",
-      "stars": 28324,
+      "stars": 28328,
       "stars_at_addition": 28324,
       "added_at": "2026-08-01"
     },
     {
       "name": "Deep Agents Code",
       "repo": "langchain-ai/deepagents",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "MIT",
       "description": "A terminal coding agent built on Deep Agents with file tools, shell access, subagents, planning, and approval controls.",
       "stars": 27176,
@@ -165,7 +204,9 @@
     {
       "name": "Crush",
       "repo": "charmbracelet/crush",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "Source Available",
       "description": "A terminal coding agent with multi-model support, LSP context, file editing, command execution, and MCP integration.",
       "stars": 26994,
@@ -175,7 +216,10 @@
     {
       "name": "Kilo Code",
       "repo": "Kilo-Org/kilocode",
-      "interfaces": ["IDE", "CLI"],
+      "interfaces": [
+        "IDE",
+        "CLI"
+      ],
       "license": "MIT",
       "description": "An agentic engineering platform with IDE and CLI interfaces, multiple operating modes, checkpoints, and broad model support.",
       "stars": 26654,
@@ -185,7 +229,9 @@
     {
       "name": "Qwen Code",
       "repo": "QwenLM/qwen-code",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "Apache-2.0",
       "description": "A terminal coding agent from the Qwen team with repository editing, shell tools, MCP support, and headless operation.",
       "stars": 26486,
@@ -195,17 +241,21 @@
     {
       "name": "Grok Build",
       "repo": "xai-org/grok-build",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "Apache-2.0",
       "description": "A terminal coding agent from xAI with a full-screen interface, repository tools, and an extensible execution harness.",
-      "stars": 23725,
+      "stars": 23728,
       "stars_at_addition": 23725,
       "added_at": "2026-08-01"
     },
     {
       "name": "Dyad",
       "repo": "dyad-sh/dyad",
-      "interfaces": ["Desktop"],
+      "interfaces": [
+        "Desktop"
+      ],
       "license": "Source Available",
       "description": "A local desktop AI app builder that generates, runs, edits, and iterates on full-stack application code.",
       "stars": 21084,
@@ -215,7 +265,9 @@
     {
       "name": "OH-MY-PI",
       "repo": "can1357/oh-my-pi",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "MIT",
       "description": "A terminal coding agent with anchored edits, LSP support, browser tools, Python execution, and subagents.",
       "stars": 20940,
@@ -225,7 +277,10 @@
     {
       "name": "SWE-agent",
       "repo": "SWE-agent/SWE-agent",
-      "interfaces": ["CLI", "Autonomous"],
+      "interfaces": [
+        "CLI",
+        "Autonomous"
+      ],
       "license": "MIT",
       "description": "An autonomous software engineering agent that takes repository issues, inspects code, applies patches, and evaluates fixes.",
       "stars": 19971,
@@ -235,7 +290,10 @@
     {
       "name": "Devika",
       "repo": "stitionai/devika",
-      "interfaces": ["Web", "Autonomous"],
+      "interfaces": [
+        "Web",
+        "Autonomous"
+      ],
       "license": "MIT",
       "description": "An autonomous software engineer that plans requested applications, researches requirements, writes code, and tracks execution.",
       "stars": 19549,
@@ -245,7 +303,9 @@
     {
       "name": "Bolt",
       "repo": "stackblitz/bolt.new",
-      "interfaces": ["Web"],
+      "interfaces": [
+        "Web"
+      ],
       "license": "MIT",
       "description": "A browser-based coding agent that prompts, runs, edits, and deploys full-stack web applications in a WebContainers environment.",
       "stars": 16485,
@@ -255,7 +315,11 @@
     {
       "name": "DeepCode",
       "repo": "HKUDS/DeepCode",
-      "interfaces": ["CLI", "Web", "Autonomous"],
+      "interfaces": [
+        "CLI",
+        "Web",
+        "Autonomous"
+      ],
       "license": "MIT",
       "description": "An agentic coding system that turns papers or specifications into code, websites, and backend implementations.",
       "stars": 16101,
@@ -265,7 +329,9 @@
     {
       "name": "Plandex",
       "repo": "plandex-ai/plandex",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "MIT",
       "description": "A plan-first terminal coding agent for multi-file changes, large codebases, reviewable diffs, and long-running tasks.",
       "stars": 15557,
@@ -275,17 +341,21 @@
     {
       "name": "JCode",
       "repo": "1jehuang/jcode",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "MIT",
       "description": "A memory-efficient terminal coding agent for repository exploration, code changes, and tool-assisted development work.",
-      "stars": 14711,
+      "stars": 14716,
       "stars_at_addition": 14711,
       "added_at": "2026-08-01"
     },
     {
       "name": "MiMo Code",
       "repo": "XiaomiMiMo/MiMo-Code",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "MIT",
       "description": "Xiaomi's terminal coding agent with interactive and headless modes, repository tools, skills, hooks, and worktree support.",
       "stars": 12582,
@@ -295,7 +365,10 @@
     {
       "name": "Trae Agent",
       "repo": "bytedance/trae-agent",
-      "interfaces": ["CLI", "Autonomous"],
+      "interfaces": [
+        "CLI",
+        "Autonomous"
+      ],
       "license": "MIT",
       "description": "ByteDance's software engineering agent for repository analysis, code editing, command execution, and benchmark tasks.",
       "stars": 11958,
@@ -305,7 +378,10 @@
     {
       "name": "Claude Engineer",
       "repo": "Doriandarko/claude-engineer",
-      "interfaces": ["CLI", "Web"],
+      "interfaces": [
+        "CLI",
+        "Web"
+      ],
       "license": "Source Available",
       "description": "A Claude-based coding agent that manages files, executes commands, creates tools, and works through an interactive CLI or web interface.",
       "stars": 11210,
@@ -315,7 +391,9 @@
     {
       "name": "Kimi Code CLI",
       "repo": "MoonshotAI/kimi-cli",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "Apache-2.0",
       "description": "Moonshot AI's terminal coding agent with repository tools, skills, MCP support, and IDE connectivity through ACP.",
       "stars": 11056,
@@ -325,7 +403,9 @@
     {
       "name": "GitHub Copilot CLI",
       "repo": "github/copilot-cli",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "Source Available",
       "description": "GitHub's terminal coding agent for repository tasks, code changes, command execution, and Copilot-assisted development.",
       "stars": 11038,
@@ -335,7 +415,10 @@
     {
       "name": "Open SWE",
       "repo": "langchain-ai/open-swe",
-      "interfaces": ["Web", "Autonomous"],
+      "interfaces": [
+        "Web",
+        "Autonomous"
+      ],
       "license": "MIT",
       "description": "An asynchronous coding agent that works on repository tasks in isolated environments and returns reviewable changes.",
       "stars": 10417,
@@ -345,7 +428,9 @@
     {
       "name": "Codebuff",
       "repo": "CodebuffAI/codebuff",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "Apache-2.0",
       "description": "A terminal coding agent that coordinates specialized agents to inspect projects, edit files, and implement requested changes.",
       "stars": 8129,
@@ -355,7 +440,9 @@
     {
       "name": "ForgeCode",
       "repo": "tailcallhq/forgecode",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "Apache-2.0",
       "description": "A terminal pair programmer with multi-provider model support, repository tools, custom agents, and refactoring workflows.",
       "stars": 7473,
@@ -365,7 +452,10 @@
     {
       "name": "Stagewise",
       "repo": "stagewise-io/stagewise",
-      "interfaces": ["IDE", "Web"],
+      "interfaces": [
+        "IDE",
+        "Web"
+      ],
       "license": "AGPL-3.0",
       "description": "An agentic IDE with code editing, app previews, Git workflows, and support for models from multiple providers.",
       "stars": 6765,
@@ -375,7 +465,9 @@
     {
       "name": "OpenCursor",
       "repo": "PawanOsman/OpenCursor",
-      "interfaces": ["IDE"],
+      "interfaces": [
+        "IDE"
+      ],
       "license": "MIT",
       "description": "A VS Code coding agent with multi-provider models, agentic chat, semantic repository search, and MCP tools.",
       "stars": 5965,
@@ -385,7 +477,10 @@
     {
       "name": "Melty",
       "repo": "meltylabs/melty",
-      "interfaces": ["IDE", "Desktop"],
+      "interfaces": [
+        "IDE",
+        "Desktop"
+      ],
       "license": "MIT",
       "description": "A chat-first code editor that lets an agent understand repositories, modify files, and present changes for review.",
       "stars": 5437,
@@ -395,7 +490,9 @@
     {
       "name": "Kodu",
       "repo": "kodu-ai/claude-coder",
-      "interfaces": ["IDE"],
+      "interfaces": [
+        "IDE"
+      ],
       "license": "Source Available",
       "description": "An autonomous VS Code agent that builds projects through code edits, terminal commands, browser interaction, and iterative feedback.",
       "stars": 5247,
@@ -405,7 +502,9 @@
     {
       "name": "Mistral Vibe",
       "repo": "mistralai/mistral-vibe",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "Apache-2.0",
       "description": "Mistral's terminal coding agent for repository exploration, planning, file editing, commands, and delegated tasks.",
       "stars": 4768,
@@ -415,7 +514,10 @@
     {
       "name": "gptme",
       "repo": "gptme/gptme",
-      "interfaces": ["CLI", "Autonomous"],
+      "interfaces": [
+        "CLI",
+        "Autonomous"
+      ],
       "license": "MIT",
       "description": "A terminal agent that writes code, edits files, runs commands, browses the web, and supports persistent autonomous operation.",
       "stars": 4373,
@@ -425,7 +527,9 @@
     {
       "name": "Command Code",
       "repo": "CommandCodeAI/command-code",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "Source Available",
       "description": "A terminal coding agent for understanding repositories, making code changes, and running development commands with multiple models.",
       "stars": 3567,
@@ -435,7 +539,11 @@
     {
       "name": "Devon",
       "repo": "entropy-research/Devon",
-      "interfaces": ["CLI", "Web", "Autonomous"],
+      "interfaces": [
+        "CLI",
+        "Web",
+        "Autonomous"
+      ],
       "license": "AGPL-3.0",
       "description": "An autonomous pair programmer that explores repositories, plans changes, edits code, runs tests, and debugs failures.",
       "stars": 3453,
@@ -445,7 +553,9 @@
     {
       "name": "Grok CLI",
       "repo": "superagent-ai/grok-cli",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "MIT",
       "description": "An open-source terminal coding agent built for the Grok API with file, shell, and repository tools.",
       "stars": 3361,
@@ -455,7 +565,10 @@
     {
       "name": "AutoCodeRover",
       "repo": "AutoCodeRoverSG/auto-code-rover",
-      "interfaces": ["CLI", "Autonomous"],
+      "interfaces": [
+        "CLI",
+        "Autonomous"
+      ],
       "license": "Source Available",
       "description": "An autonomous software engineering agent that searches repository structures, analyzes issues, writes patches, and evaluates fixes.",
       "stars": 3100,
@@ -465,7 +578,9 @@
     {
       "name": "Letta Code",
       "repo": "letta-ai/letta-code",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "Apache-2.0",
       "description": "A stateful terminal coding agent with persistent memory, repository context, model flexibility, and learned working preferences.",
       "stars": 2937,
@@ -475,7 +590,10 @@
     {
       "name": "Background Agents",
       "repo": "ColeMurray/background-agents",
-      "interfaces": ["Web", "Autonomous"],
+      "interfaces": [
+        "Web",
+        "Autonomous"
+      ],
       "license": "MIT",
       "description": "A self-hosted background coding system that runs repository tasks in isolated environments and returns code changes.",
       "stars": 2597,
@@ -485,7 +603,11 @@
     {
       "name": "Codel",
       "repo": "semanser/codel",
-      "interfaces": ["CLI", "Web", "Autonomous"],
+      "interfaces": [
+        "CLI",
+        "Web",
+        "Autonomous"
+      ],
       "license": "AGPL-3.0",
       "description": "An autonomous development agent that uses a terminal, browser, and editor inside isolated environments to complete projects.",
       "stars": 2465,
@@ -495,7 +617,9 @@
     {
       "name": "Nanocoder",
       "repo": "Nano-Collective/nanocoder",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "Source Available",
       "description": "A local-first terminal coding agent with bring-your-own-model support, tool calling, MCP, and file-based customization.",
       "stars": 2304,
@@ -505,7 +629,10 @@
     {
       "name": "RA.Aid",
       "repo": "ai-christianson/RA.Aid",
-      "interfaces": ["CLI", "Autonomous"],
+      "interfaces": [
+        "CLI",
+        "Autonomous"
+      ],
       "license": "Apache-2.0",
       "description": "An autonomous development agent that researches a codebase, plans implementation, edits files, and runs validation.",
       "stars": 2223,
@@ -515,7 +642,10 @@
     {
       "name": "Agentless",
       "repo": "OpenAutoCoder/Agentless",
-      "interfaces": ["CLI", "Autonomous"],
+      "interfaces": [
+        "CLI",
+        "Autonomous"
+      ],
       "license": "MIT",
       "description": "A lightweight automated software repair system that localizes faults, generates patches, and validates candidate fixes.",
       "stars": 2089,
@@ -525,7 +655,9 @@
     {
       "name": "Amazon Q Developer CLI",
       "repo": "aws/amazon-q-developer-cli",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "Apache-2.0",
       "description": "AWS's terminal coding agent for building applications, editing projects, running shell commands, and working with AWS services.",
       "stars": 1982,
@@ -535,7 +667,9 @@
     {
       "name": "Neovate Code",
       "repo": "neovateai/neovate-code",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "MIT",
       "description": "A terminal coding agent for generating code, fixing bugs, reviewing changes, adding tests, and running headless automation.",
       "stars": 1555,
@@ -545,7 +679,10 @@
     {
       "name": "AutoBE",
       "repo": "wrtnlabs/autobe",
-      "interfaces": ["CLI", "Autonomous"],
+      "interfaces": [
+        "CLI",
+        "Autonomous"
+      ],
       "license": "AGPL-3.0",
       "description": "A backend coding agent that uses compiler-guided workflows to generate and validate TypeScript server applications.",
       "stars": 1358,
@@ -555,7 +692,9 @@
     {
       "name": "Snow CLI",
       "repo": "MayDay-wpf/snow-cli",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "Source Available",
       "description": "A terminal coding agent with support for OpenAI-, Gemini-, Claude-, and DeepSeek-based development workflows.",
       "stars": 1113,
@@ -565,7 +704,9 @@
     {
       "name": "VT Code",
       "repo": "vinhnx/VTCode",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "Apache-2.0",
       "description": "A Rust terminal coding agent with repository understanding, native sandboxing, safety controls, and multi-provider support.",
       "stars": 781,
@@ -575,7 +716,9 @@
     {
       "name": "Groq Code CLI",
       "repo": "build-with-groq/groq-code-cli",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "MIT",
       "description": "A lightweight terminal coding agent for Groq models with customizable tools, commands, and iterative code changes.",
       "stars": 742,
@@ -585,7 +728,10 @@
     {
       "name": "Dexto",
       "repo": "truffle-ai/dexto",
-      "interfaces": ["CLI", "Web"],
+      "interfaces": [
+        "CLI",
+        "Web"
+      ],
       "license": "Source Available",
       "description": "A coding agent with CLI and web modes, repository tools, subagent support, and configurable model providers.",
       "stars": 645,
@@ -595,7 +741,9 @@
     {
       "name": "g3",
       "repo": "dhanji/g3",
-      "interfaces": ["CLI"],
+      "interfaces": [
+        "CLI"
+      ],
       "license": "Source Available",
       "description": "An experimental Rust coding agent with repository interaction, tool execution, skills, and provider abstraction.",
       "stars": 516,
