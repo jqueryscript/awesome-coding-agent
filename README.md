@@ -2,8 +2,8 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/jqueryscript/awesome-coding-agent?style=social)](https://github.com/jqueryscript/awesome-coding-agent/stargazers)
 [![CI](https://github.com/jqueryscript/awesome-coding-agent/actions/workflows/quality.yml/badge.svg)](https://github.com/jqueryscript/awesome-coding-agent/actions/workflows/quality.yml)
-[![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](LICENSE)
-[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-blue.svg)
+![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
 A curated ranking of popular AI coding agents with public GitHub repositories. Every project has at least 500 stars when added and can inspect a codebase, make changes, or run development tools.
 
@@ -11,14 +11,13 @@ A curated ranking of popular AI coding agents with public GitHub repositories. E
 
 ## Contents
 
-- [What Is an AI Coding Agent?](#what-is-an-ai-coding-agent)
+- [What Is an AI Coding Agent](#what-is-an-ai-coding-agent)
 - [Ranked AI Coding Agents](#ranked-ai-coding-agents)
 - [How Projects Qualify](#how-projects-qualify)
 - [Related Lists](#related-lists)
 - [Contributing](#contributing)
-- [License](#license)
 
-## What Is an AI Coding Agent?
+## What Is an AI Coding Agent
 
 An AI coding agent accepts a development task, reads the relevant codebase, and takes action through file edits, command execution, tests, or debugging. The list includes terminal agents, agentic IDEs, autonomous software engineers, and browser or desktop tools that perform this work directly.
 
@@ -116,7 +115,5 @@ Star counts are a popularity signal, not a quality score. Inclusion remains cura
 ## Contributing
 
 Contributions are welcome. Read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request. Add or update records in [`data/agents.json`](data/agents.json); the ranked section of this README is generated automatically.
-
-## License
 
 This list is released under [CC0 1.0 Universal](LICENSE). Each linked project retains its own license and terms.
