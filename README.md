@@ -1,6 +1,6 @@
 # Awesome Coding Agents [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![GitHub stars](https://img.shields.io/github/stars/jqueryscript/awesome-coding-agent?style=social)](https://github.com/jqueryscript/awesome-coding-agent/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/jqueryscript/awesome-coding-agent?style=social)](https://github.com/jqueryscript/awesome-coding-agent)
 [![CI](https://github.com/jqueryscript/awesome-coding-agent/actions/workflows/quality.yml/badge.svg)](https://github.com/jqueryscript/awesome-coding-agent/actions/workflows/quality.yml)
 ![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-blue.svg)
 ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
