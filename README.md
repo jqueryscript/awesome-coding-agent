@@ -14,7 +14,6 @@ A curated ranking of popular AI coding agents with public GitHub repositories. E
 - [What Is an AI Coding Agent](#what-is-an-ai-coding-agent)
 - [Ranked AI Coding Agents](#ranked-ai-coding-agents)
 - [How Projects Qualify](#how-projects-qualify)
-- [Contributing](#contributing)
 
 ## What Is an AI Coding Agent
 
