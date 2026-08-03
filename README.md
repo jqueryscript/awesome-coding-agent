@@ -25,44 +25,44 @@ Code completion extensions, prompt collections, skills, SDKs, general agent fram
 
 Projects are sorted by the exact GitHub star count in descending order. The displayed counts are shortened for readability, while sorting always uses the full integer returned by GitHub.
 
-**Last verified:** 2026-08-01 · **Minimum at admission:** 500 stars · **Projects:** 60
+**Last verified:** 2026-08-03 · **Minimum at admission:** 500 stars · **Projects:** 60
 
 <!-- BEGIN GENERATED RANKING -->
-- [OpenCode](https://github.com/anomalyco/opencode) - **192k stars** · `CLI` · `MIT`. A provider-agnostic terminal coding agent with repository tools, LSP integration, and shareable sessions.
+- [OpenCode](https://github.com/anomalyco/opencode) - **193k stars** · `CLI` · `MIT`. A provider-agnostic terminal coding agent with repository tools, LSP integration, and shareable sessions.
 - [Claude Code](https://github.com/anthropics/claude-code) - **140k stars** · `CLI` · `Closed Source`. Anthropic's terminal coding agent for codebase analysis, file changes, command execution, and Git workflows.
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - **106k stars** · `CLI` · `Apache-2.0`. Google's terminal agent for understanding repositories, editing files, running commands, and using Gemini tools.
-- [Codex CLI](https://github.com/openai/codex) - **103k stars** · `CLI` · `Apache-2.0`. OpenAI's local coding agent for inspecting repositories, editing files, running commands, and completing development tasks.
-- [OpenHands](https://github.com/OpenHands/OpenHands) - **82.7k stars** · `CLI` · `Web` · `Autonomous` · `MIT`. An autonomous software development platform that can modify repositories, run commands, and work on GitHub issues.
-- [Pi](https://github.com/earendil-works/pi) - **81.6k stars** · `CLI` · `MIT`. A compact terminal coding agent with a unified model API, tool execution, extensions, and a programmable agent loop.
+- [Codex CLI](https://github.com/openai/codex) - **104k stars** · `CLI` · `Apache-2.0`. OpenAI's local coding agent for inspecting repositories, editing files, running commands, and completing development tasks.
+- [OpenHands](https://github.com/OpenHands/OpenHands) - **83k stars** · `CLI` · `Web` · `Autonomous` · `MIT`. An autonomous software development platform that can modify repositories, run commands, and work on GitHub issues.
+- [Pi](https://github.com/earendil-works/pi) - **82.7k stars** · `CLI` · `MIT`. A compact terminal coding agent with a unified model API, tool execution, extensions, and a programmable agent loop.
 - [Open Interpreter](https://github.com/openinterpreter/openinterpreter) - **67.5k stars** · `CLI` · `Apache-2.0`. A local terminal agent that writes and executes code to complete programming and computer tasks with open models.
-- [Cline](https://github.com/cline/cline) - **65.4k stars** · `IDE` · `CLI` · `Apache-2.0`. An autonomous coding agent for IDE and terminal workflows with file editing, command execution, browser tools, and checkpoints.
-- [Warp](https://github.com/warpdotdev/warp) - **63.8k stars** · `CLI` · `Desktop` · `AGPL-3.0`. An agentic development environment that combines a modern terminal with repository-aware coding and command execution.
-- [Goose](https://github.com/aaif-goose/goose) - **52k stars** · `CLI` · `Desktop` · `Apache-2.0`. An extensible local agent that can inspect code, edit files, execute commands, run tests, and connect to MCP servers.
-- [Aider](https://github.com/Aider-AI/aider) - **47.8k stars** · `CLI` · `Apache-2.0`. A Git-aware terminal pair programmer that edits multiple files, maps repositories, runs checks, and commits changes.
-- [Continue](https://github.com/continuedev/continue) - **35.2k stars** · `IDE` · `CLI` · `Apache-2.0`. An open-source coding agent for IDE and terminal use with configurable models, repository context, and development tools.
+- [Cline](https://github.com/cline/cline) - **65.5k stars** · `IDE` · `CLI` · `Apache-2.0`. An autonomous coding agent for IDE and terminal workflows with file editing, command execution, browser tools, and checkpoints.
+- [Warp](https://github.com/warpdotdev/warp) - **63.9k stars** · `CLI` · `Desktop` · `AGPL-3.0`. An agentic development environment that combines a modern terminal with repository-aware coding and command execution.
+- [Goose](https://github.com/aaif-goose/goose) - **52.2k stars** · `CLI` · `Desktop` · `Apache-2.0`. An extensible local agent that can inspect code, edit files, execute commands, run tests, and connect to MCP servers.
+- [Aider](https://github.com/Aider-AI/aider) - **47.9k stars** · `CLI` · `Apache-2.0`. A Git-aware terminal pair programmer that edits multiple files, maps repositories, runs checks, and commits changes.
+- [Continue](https://github.com/continuedev/continue) - **35.3k stars** · `IDE` · `CLI` · `Apache-2.0`. An open-source coding agent for IDE and terminal use with configurable models, repository context, and development tools.
 - [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) - **33.7k stars** · `CLI` · `Source Available`. An AI developer that plans applications, writes code, runs commands, debugs failures, and asks for human review when needed.
 - [Cursor](https://github.com/cursor/cursor) - **33.1k stars** · `IDE` · `Desktop` · `Closed Source`. An AI code editor with an agent that explores repositories, changes files, runs commands, and completes multi-step coding tasks.
-- [DeepSeek Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - **28.3k stars** · `CLI` · `MIT`. A terminal coding agent designed for DeepSeek models with persistent sessions, repository tools, and cache-aware execution.
-- [Deep Agents Code](https://github.com/langchain-ai/deepagents) - **27.2k stars** · `CLI` · `MIT`. A terminal coding agent built on Deep Agents with file tools, shell access, subagents, planning, and approval controls.
+- [DeepSeek Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - **29.6k stars** · `CLI` · `MIT`. A terminal coding agent designed for DeepSeek models with persistent sessions, repository tools, and cache-aware execution.
+- [Deep Agents Code](https://github.com/langchain-ai/deepagents) - **27.3k stars** · `CLI` · `MIT`. A terminal coding agent built on Deep Agents with file tools, shell access, subagents, planning, and approval controls.
 - [Crush](https://github.com/charmbracelet/crush) - **27k stars** · `CLI` · `Source Available`. A terminal coding agent with multi-model support, LSP context, file editing, command execution, and MCP integration.
 - [Kilo Code](https://github.com/Kilo-Org/kilocode) - **26.7k stars** · `IDE` · `CLI` · `MIT`. An agentic engineering platform with IDE and CLI interfaces, multiple operating modes, checkpoints, and broad model support.
-- [Qwen Code](https://github.com/QwenLM/qwen-code) - **26.5k stars** · `CLI` · `Apache-2.0`. A terminal coding agent from the Qwen team with repository editing, shell tools, MCP support, and headless operation.
-- [Grok Build](https://github.com/xai-org/grok-build) - **23.7k stars** · `CLI` · `Apache-2.0`. A terminal coding agent from xAI with a full-screen interface, repository tools, and an extensible execution harness.
+- [Qwen Code](https://github.com/QwenLM/qwen-code) - **26.6k stars** · `CLI` · `Apache-2.0`. A terminal coding agent from the Qwen team with repository editing, shell tools, MCP support, and headless operation.
+- [Grok Build](https://github.com/xai-org/grok-build) - **24k stars** · `CLI` · `Apache-2.0`. A terminal coding agent from xAI with a full-screen interface, repository tools, and an extensible execution harness.
+- [OH-MY-PI](https://github.com/can1357/oh-my-pi) - **21.5k stars** · `CLI` · `MIT`. A terminal coding agent with anchored edits, LSP support, browser tools, Python execution, and subagents.
 - [Dyad](https://github.com/dyad-sh/dyad) - **21.1k stars** · `Desktop` · `Source Available`. A local desktop AI app builder that generates, runs, edits, and iterates on full-stack application code.
-- [OH-MY-PI](https://github.com/can1357/oh-my-pi) - **20.9k stars** · `CLI` · `MIT`. A terminal coding agent with anchored edits, LSP support, browser tools, Python execution, and subagents.
 - [SWE-agent](https://github.com/SWE-agent/SWE-agent) - **20k stars** · `CLI` · `Autonomous` · `MIT`. An autonomous software engineering agent that takes repository issues, inspects code, applies patches, and evaluates fixes.
-- [Devika](https://github.com/stitionai/devika) - **19.5k stars** · `Web` · `Autonomous` · `MIT`. An autonomous software engineer that plans requested applications, researches requirements, writes code, and tracks execution.
+- [Devika](https://github.com/stitionai/devika) - **19.6k stars** · `Web` · `Autonomous` · `MIT`. An autonomous software engineer that plans requested applications, researches requirements, writes code, and tracks execution.
 - [Bolt](https://github.com/stackblitz/bolt.new) - **16.5k stars** · `Web` · `MIT`. A browser-based coding agent that prompts, runs, edits, and deploys full-stack web applications in a WebContainers environment.
 - [DeepCode](https://github.com/HKUDS/DeepCode) - **16.1k stars** · `CLI` · `Web` · `Autonomous` · `MIT`. An agentic coding system that turns papers or specifications into code, websites, and backend implementations.
 - [Plandex](https://github.com/plandex-ai/plandex) - **15.6k stars** · `CLI` · `MIT`. A plan-first terminal coding agent for multi-file changes, large codebases, reviewable diffs, and long-running tasks.
-- [JCode](https://github.com/1jehuang/jcode) - **14.7k stars** · `CLI` · `MIT`. A memory-efficient terminal coding agent for repository exploration, code changes, and tool-assisted development work.
+- [JCode](https://github.com/1jehuang/jcode) - **15.4k stars** · `CLI` · `MIT`. A memory-efficient terminal coding agent for repository exploration, code changes, and tool-assisted development work.
 - [MiMo Code](https://github.com/XiaomiMiMo/MiMo-Code) - **12.6k stars** · `CLI` · `MIT`. Xiaomi's terminal coding agent with interactive and headless modes, repository tools, skills, hooks, and worktree support.
 - [Trae Agent](https://github.com/bytedance/trae-agent) - **12k stars** · `CLI` · `Autonomous` · `MIT`. ByteDance's software engineering agent for repository analysis, code editing, command execution, and benchmark tasks.
 - [Claude Engineer](https://github.com/Doriandarko/claude-engineer) - **11.2k stars** · `CLI` · `Web` · `Source Available`. A Claude-based coding agent that manages files, executes commands, creates tools, and works through an interactive CLI or web interface.
 - [Kimi Code CLI](https://github.com/MoonshotAI/kimi-cli) - **11.1k stars** · `CLI` · `Apache-2.0`. Moonshot AI's terminal coding agent with repository tools, skills, MCP support, and IDE connectivity through ACP.
 - [GitHub Copilot CLI](https://github.com/github/copilot-cli) - **11k stars** · `CLI` · `Source Available`. GitHub's terminal coding agent for repository tasks, code changes, command execution, and Copilot-assisted development.
 - [Open SWE](https://github.com/langchain-ai/open-swe) - **10.4k stars** · `Web` · `Autonomous` · `MIT`. An asynchronous coding agent that works on repository tasks in isolated environments and returns reviewable changes.
-- [Codebuff](https://github.com/CodebuffAI/codebuff) - **8.1k stars** · `CLI` · `Apache-2.0`. A terminal coding agent that coordinates specialized agents to inspect projects, edit files, and implement requested changes.
+- [Codebuff](https://github.com/CodebuffAI/codebuff) - **8.2k stars** · `CLI` · `Apache-2.0`. A terminal coding agent that coordinates specialized agents to inspect projects, edit files, and implement requested changes.
 - [ForgeCode](https://github.com/tailcallhq/forgecode) - **7.5k stars** · `CLI` · `Apache-2.0`. A terminal pair programmer with multi-provider model support, repository tools, custom agents, and refactoring workflows.
 - [Stagewise](https://github.com/stagewise-io/stagewise) - **6.8k stars** · `IDE` · `Web` · `AGPL-3.0`. An agentic IDE with code editing, app previews, Git workflows, and support for models from multiple providers.
 - [OpenCursor](https://github.com/PawanOsman/OpenCursor) - **6k stars** · `IDE` · `MIT`. A VS Code coding agent with multi-provider models, agentic chat, semantic repository search, and MCP tools.
@@ -84,7 +84,7 @@ Projects are sorted by the exact GitHub star count in descending order. The disp
 - [Neovate Code](https://github.com/neovateai/neovate-code) - **1.6k stars** · `CLI` · `MIT`. A terminal coding agent for generating code, fixing bugs, reviewing changes, adding tests, and running headless automation.
 - [AutoBE](https://github.com/wrtnlabs/autobe) - **1.4k stars** · `CLI` · `Autonomous` · `AGPL-3.0`. A backend coding agent that uses compiler-guided workflows to generate and validate TypeScript server applications.
 - [Snow CLI](https://github.com/MayDay-wpf/snow-cli) - **1.1k stars** · `CLI` · `Source Available`. A terminal coding agent with support for OpenAI-, Gemini-, Claude-, and DeepSeek-based development workflows.
-- [VT Code](https://github.com/vinhnx/VTCode) - **781 stars** · `CLI` · `Apache-2.0`. A Rust terminal coding agent with repository understanding, native sandboxing, safety controls, and multi-provider support.
+- [VT Code](https://github.com/vinhnx/VTCode) - **783 stars** · `CLI` · `Apache-2.0`. A Rust terminal coding agent with repository understanding, native sandboxing, safety controls, and multi-provider support.
 - [Groq Code CLI](https://github.com/build-with-groq/groq-code-cli) - **742 stars** · `CLI` · `MIT`. A lightweight terminal coding agent for Groq models with customizable tools, commands, and iterative code changes.
 - [Dexto](https://github.com/truffle-ai/dexto) - **645 stars** · `CLI` · `Web` · `Source Available`. A coding agent with CLI and web modes, repository tools, subagent support, and configurable model providers.
 - [g3](https://github.com/dhanji/g3) - **516 stars** · `CLI` · `Source Available`. An experimental Rust coding agent with repository interaction, tool execution, skills, and provider abstraction.
